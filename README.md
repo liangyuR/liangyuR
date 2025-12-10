@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Python-3.x-yellow?logo=python&logoColor=white"/>
 </p>
 
-### 🧰 框架 / 工具（代表性）
+### 🧰 框架 / 工具
 <p>
   <img src="https://img.shields.io/badge/Qt-6-brightgreen?logo=qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/QML-UI-orange"/>
@@ -47,9 +47,8 @@
 
 - 小地图检测（YOLO）
 - 敌我位置识别
-- A* 路径规划 + cost map + 栅格膨胀
+- A* 路径规划
 - 键盘鼠标控制器
-- Debug overlay 可视化
 
 > 项目在持续开发中，是目前主要的个人工程方向。
 
