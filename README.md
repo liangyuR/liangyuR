@@ -57,55 +57,12 @@
 
 ## 📊 GitHub 信息
 
-<table>
-  <tr>
-    <td>
-      <!-- GitHub 统计 -->
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=liangyuR&show_icons=true&theme=github_dark" 
-        alt="GitHub Stats" 
-        height="160"
-      />
-    </td>
-    <td>
-      <!-- 语言占比 -->
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=liangyuR&layout=compact&theme=github_dark" 
-        alt="Top Langs" 
-        height="160"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <!-- 提交连续天数（Streak） -->
-      <img 
-        src="https://streak-stats.demolab.com?user=liangyuR&theme=github-dark" 
-        alt="GitHub Streak" 
-        height="160"
-      />
-    </td>
-    <td>
-      <!-- 活动图 / 提交分布 -->
-      <img 
-        src="https://github-readme-activity-graph.vercel.app/graph?username=liangyuR&theme=github-dark" 
-        alt="GitHub Activity Graph" 
-        height="160"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <!-- WakaTime 编码时间统计 -->
-      <!-- 注意：这里的 username 需要换成你的 WakaTime 用户名 -->
-      <img 
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=Yone&theme=github_dark"
-        alt="WakaTime Stats"
-        height="200"
-      />
-    </td>
-  </tr>
-</table>
+<!-- 活动图 / 提交分布 -->
+<img 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=liangyuR&theme=github-dark" 
+  alt="GitHub Activity Graph" 
+  height="160"
+/>
 
 ---
 
