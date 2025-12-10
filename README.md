@@ -1,4 +1,4 @@
-<h1 align="center">Hi，我是 Liangyu 👋</h1>
+<h1 align="center">Hi，我是 Yone 👋</h1>
 
 <p align="center">
   爱打游戏的 C++ 桌面端开发者，偶尔折腾 Python，也在学习 ROS2 / YOLO。
