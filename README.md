@@ -60,7 +60,7 @@
 <p align="center">
   <!-- GitHub 总体统计：这里面已经包含 Stars 数 -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=liangyuR&show_icons=true&theme=github_dark" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liangyuR&theme=github_dark" 
     alt="GitHub Stats" 
     height="160"
   />
