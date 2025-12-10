@@ -57,19 +57,23 @@
 
 ## 📊 GitHub 信息
 
-<!-- 活动图 / 提交分布 -->
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=liangyuR&theme=github-dark" 
-  alt="GitHub Activity Graph" 
-  height="160"
-/>
+<p align="center">
+  <!-- GitHub 总体统计：这里面已经包含 Stars 数 -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=liangyuR&show_icons=true&theme=github_dark" 
+    alt="GitHub Stats" 
+    height="160"
+  />
+</p>
 
-<!-- Star 数统计 -->
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liangyuR&theme=github_dark"
-  alt="Total Stars" 
-  height="160"
-/>
+<p align="center">
+  <!-- 活动图 / 提交分布 -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=liangyuR&theme=github-dark" 
+    alt="GitHub Activity Graph" 
+    height="220"
+  />
+</p>
 
 ---
 
