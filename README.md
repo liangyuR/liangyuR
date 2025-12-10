@@ -66,7 +66,7 @@
 
 <!-- Star 数统计 -->
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=liangyuR&show_icons=true&hide=contribs,prs&count_private=true&include_all_commits=true&custom_title=Total%20Stars&show=reviews&theme=github_dark" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liangyuR&theme=github_dark"
   alt="Total Stars" 
   height="160"
 />
