@@ -99,7 +99,7 @@
       <!-- WakaTime 编码时间统计 -->
       <!-- 注意：这里的 username 需要换成你的 WakaTime 用户名 -->
       <img 
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=github_dark"
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=Yone&theme=github_dark"
         alt="WakaTime Stats"
         height="200"
       />
