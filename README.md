@@ -58,10 +58,16 @@
 ## 📊 GitHub 信息
 
 <p align="center">
-  <!-- GitHub 总体统计：这里面已经包含 Stars 数 -->
+  <!-- GitHub 总体统计（含 Stars 等） -->
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liangyuR&theme=github_dark" 
     alt="GitHub Stats" 
+    height="160"
+  />
+  <!-- Most Used Languages -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=liangyuR&theme=github_dark"
+    alt="Most Used Languages"
     height="160"
   />
 </p>
@@ -74,6 +80,7 @@
     height="220"
   />
 </p>
+
 
 ---
 
