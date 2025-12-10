@@ -28,7 +28,7 @@
 
 ### 🧰 框架 / 工具（代表性）
 <p>
-  <img src="https://img.shields.io/badge/Qt-6.8-brightgreen?logo=qt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qt-6-brightgreen?logo=qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/QML-UI-orange"/>
   <img src="https://img.shields.io/badge/ROS2-learning-purple"/>
   <img src="https://img.shields.io/badge/YOLO-training-blueviolet"/>
@@ -40,31 +40,75 @@
 
 ## 📌 项目展示
 
-### 🔥 **WotAI – WOT 坦克自动导航与辅助**
+### 🔥 WotAI – WOT 坦克自动导航与辅助
 **仓库地址：** https://github.com/liangyuR/wot_ai  
 
 基于 Python + YOLO + 路径规划的游戏自动导航项目，包含：
 
 - 小地图检测（YOLO）
 - 敌我位置识别
-- A* 路径规划 + cost map + 膨胀栅格
+- A* 路径规划 + cost map + 栅格膨胀
 - 键盘鼠标控制器
 - Debug overlay 可视化
 
-> 这个项目还在持续开发中，是目前最主要的个人工程方向。
+> 项目在持续开发中，是目前主要的个人工程方向。
 
 ---
 
 ## 📊 GitHub 信息
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=liangyuR&show_icons=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liangyuR&layout=compact&theme=default" height="160" />
-</p>
+<table>
+  <tr>
+    <td>
+      <!-- GitHub 统计 -->
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=liangyuR&show_icons=true&theme=github_dark" 
+        alt="GitHub Stats" 
+        height="160"
+      />
+    </td>
+    <td>
+      <!-- 语言占比 -->
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=liangyuR&layout=compact&theme=github_dark" 
+        alt="Top Langs" 
+        height="160"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <!-- 提交连续天数（Streak） -->
+      <img 
+        src="https://streak-stats.demolab.com?user=liangyuR&theme=github-dark" 
+        alt="GitHub Streak" 
+        height="160"
+      />
+    </td>
+    <td>
+      <!-- 活动图 / 提交分布 -->
+      <img 
+        src="https://github-readme-activity-graph.vercel.app/graph?username=liangyuR&theme=github-dark" 
+        alt="GitHub Activity Graph" 
+        height="160"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <!-- WakaTime 编码时间统计 -->
+      <!-- 注意：这里的 username 需要换成你的 WakaTime 用户名 -->
+      <img 
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=github_dark"
+        alt="WakaTime Stats"
+        height="200"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🙌 其他
 
 如果你对 C++ 桌面开发、自动化、游戏 AI 感兴趣，欢迎一起交流。
-
