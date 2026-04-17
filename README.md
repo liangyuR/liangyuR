@@ -1,9 +1,7 @@
 <h1 align="center">Hi，我是 Yone 👋</h1>
 
 <p align="center">
-  爱打游戏的 C++ 桌面端开发者，偶尔折腾 Python，也在学习 ROS2 / YOLO。
-  <br/>
-  空闲时间喜欢游戏、骑车、旅游，探索各种新鲜的东西。
+  喜欢游戏、骑车、旅游，探索各种新鲜的东西。
 </p>
 
 ## 📊 GitHub 信息
