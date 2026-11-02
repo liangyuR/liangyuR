@@ -1,4 +1,4 @@
-# 生成贪吃蛇贡献图（墨黑 × 琥珀黄配色）
+# 生成贪吃蛇贡献图（青钢配色）
 # 产物会被推到本仓库的 output 分支，README 通过 raw.githubusercontent 引用。
 name: Generate Snake
 
@@ -27,8 +27,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/snake-dark.svg?palette=github-dark&color_snake=#F59E0B&color_dots=#161B22,#3F2D0B,#78350F,#B45309,#F59E0B
-            dist/snake-light.svg?palette=github-light&color_snake=#B45309&color_dots=#FFFBEB,#FDE68A,#F59E0B,#B45309,#78350F
+            dist/snake-dark.svg?palette=github-dark&color_snake=#B9EBFF&color_dots=#171C1F,#344A52,#006782,#0F819E,#7FD4F0
+            dist/snake-light.svg?palette=github-light&color_snake=#00363F&color_dots=#EFF4F7,#CEE6EF,#7FD4F0,#0F819E,#006782
 
       - name: 推送到 output 分支
         uses: crazy-max/ghaction-github-pages@v4
